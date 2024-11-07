@@ -15,7 +15,7 @@ const App = () => {
       border: '2px solid grey'
     }}>
     
-      <h1 style={{ textAlign: 'center', padding: '20px' }}>Weird Photos for Vega....</h1>
+      <h1 style={{ textAlign: 'center', padding: '20px' }}>Photos by Rytham for Vega....</h1>
       
 
       <SearchPage onImageSelect={setSelectedImage} />
